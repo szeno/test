@@ -1,2 +1,1 @@
-# test
-Ez egy próba.
+This a test.
